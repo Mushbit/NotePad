@@ -54,7 +54,7 @@
           listItem.appendChild(deleteButton);
 
           span.textContent = myItem;
-          deleteButton.textContent = 'Delete';
+          deleteButton.textContent = 'X';
 
           list.appendChild(listItem);
 
