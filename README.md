@@ -4,7 +4,7 @@ A simple notepad application created using HTML5, CSS3 and JSES6.
 # Features
  - Add items to list
  - Check off items and get notified upon completion
- - visiually tracks number of items completed
+ - visually tracks number of items completed
  - Remove items off list
  - Keyboard and mouse support
 
