@@ -1,6 +1,8 @@
 # NotePad
 A simple notepad application created using HTML5, CSS3 and JSES6.
 
+https://codepen.io/Just-a-Bird/pen/OJwLMQq
+
 # Features
  - Add items to list
  - Check off items and get notified upon completion
@@ -8,7 +10,7 @@ A simple notepad application created using HTML5, CSS3 and JSES6.
  - Remove items off list
  - Keyboard and mouse support
 
-# Knownbugs
+# Known bugs
  - Non so far
  
 # Acknowledgment
@@ -17,9 +19,9 @@ A simple notepad application created using HTML5, CSS3 and JSES6.
  
  # Aditional Note
  
- I would like to add a few lines on the yellow part of the notepad on launch to fill the page.
- When starting to add items, the lines will turn from gray to how they apear currently.
- This would be great from a design perspective.
+ I would like to add a few lines on the yellow part of the notepad on launch to fill the empty space currently there.
+ When starting to add items, the lines will turn from gray to how they apear currently, when adding an item.
+ This would be a great addition from a design perspective.
  
  The code, and then particulary the CSS part, is a little messy. I could clean it up but I prefer to move on to the next project and do better
  This project was written before figuring out the beauty of 'rem' values and understanding flex.
